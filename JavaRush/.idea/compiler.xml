@@ -9,5 +9,8 @@
         <module name="JavaRush" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JavaRush" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
