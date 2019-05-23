@@ -1,6 +1,6 @@
 package Tasks1;
 
-public class task0107 {
+public class Task0107 {
     public static void main(String[] args) {
         int x = 2;
         int y = 12;

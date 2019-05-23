@@ -1,6 +1,6 @@
 package Tasks2;
 
-public class task0207 {
+public class Task0207 {
     public static void main(String[] args) {
         Man man = new Man();
         Woman woman = new Woman();

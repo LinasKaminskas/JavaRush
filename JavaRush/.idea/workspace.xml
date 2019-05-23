@@ -2,8 +2,124 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e870230b-f685-4686-9d76-3ff03e5ab45e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks3/task0304.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks3/Task0306.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks3/Task0307.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks3/Task0308.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks3/Task0309.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks3/Task0310.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks3/Task0311.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks3/Task0312.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks3/Task0313shuffleList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks3/Task0314.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks3/Task0315.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks3/Task0316.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks3/Task0317Translator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks3/task0305.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0101.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/task0102.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0103.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0103.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0105.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0105.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0106.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0106.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0107.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/task0107.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0108.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0108.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0109.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/task0109.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0110.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0111.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0114.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0114.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0115.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0115.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0116.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0116.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0117.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0117.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0118.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0118.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0119.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0119.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0121.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0121.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0122.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0122.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0123.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0125.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0125.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0126.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0126.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0127.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/task0127.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0128.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0128.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0135.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0135.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0137.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0137.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0138.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0138.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0139.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0139.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks1/task0140.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks1/Task0140.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0201.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/Task0201.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0202.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/Task0202.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0203.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/Task0203.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0204.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/Task0204.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0205.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/Task0205.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/Task0206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0207.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/task0207.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0208.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/Task0208.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0209.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/Task0209.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0210.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/Task0210.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0211.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/task0211.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0212.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/Task0212.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0213.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/Task0213.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0214.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/Task0214.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0215.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/Task0215.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0216.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/Task0216.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0217.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/Task0217.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0218.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/Task0218.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0219.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/Task0219.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks2/task0220.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks2/Task0220.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks3/task0301.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks3/Task0301.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks3/task0302.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks3/Task0302.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks3/task0303.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks3/task0303jsonFromURL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tasks3/task0304.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks3/Task0304.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0101.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0101.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0102.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0102.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0103.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0103.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0105.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0105.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0106.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0106.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0107.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0107.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0108.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0108.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0109.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0109.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0110.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0110.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0111.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0111.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0114.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0114.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0115.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0115.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0116.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0116.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0117.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0117.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0118.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0118.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0119.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0119.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0121.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0121.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0122.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0122.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0123.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0123.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0125.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0125.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0126.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0126.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0127.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0127.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0128.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0128.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0135.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0135.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0137.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0137.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0138.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0138.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0139.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0139.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks1/task0140.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks1/task0140.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0201.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0201.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0202.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0202.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0203.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0203.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0204$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0204$Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0204.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0204.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0205.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0205.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0206.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0206.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0207$Man.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0207$Man.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0207$Woman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0207$Woman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0207.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0207.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0208$Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0208$Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0208.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0208.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0209$Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0209$Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0209.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0209.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0210.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0210.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0211.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0211.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0212$Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0212$Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0212.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0212.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0213$Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0213$Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0213$Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0213$Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0213$Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0213$Fish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0213$Women.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0213$Women.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tasks2/task0213.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tasks2/task0213.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,11 +133,25 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Tasks3/Task0317Translator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -32,20 +162,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Tasks1/task0111.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Tasks2/task0207.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Tasks2/task0214.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Tasks2/task0216.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Tasks2/task0215.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Tasks2/task0217.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Tasks2/task0218.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Tasks2/task0219.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Tasks2/task0220.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Tasks3/task0301.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Tasks3/task0302.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks2/Task0205.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks2/Task0206.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks2/Task0207.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks2/Task0208.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks2/Task0209.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks2/Task0210.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks2/Task0211.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks2/Task0212.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks2/Task0213.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks2/Task0214.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks2/Task0215.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks2/Task0216.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks2/Task0217.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks2/Task0218.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks2/Task0219.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks2/Task0220.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0101.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0102.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0103.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0105.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0106.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0107.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0108.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0109.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0110.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0111.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0114.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0115.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0116.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0117.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0118.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0119.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0121.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0122.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0123.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0125.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0126.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0127.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0128.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0135.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0137.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0138.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0139.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks1/Task0140.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks3/Task0315.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks3/Task0316.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks3/AbstractWebTranslator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks3/Task0317.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/Tasks3/task0303.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Tasks3/task0304.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks3/Translator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks3/Task0317Translator.java" />
       </list>
     </option>
   </component>
@@ -56,10 +223,19 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JavaRush" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="width" value="1920" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -118,14 +294,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\MavenProjects\MavenGit\JavaRush\src\main\java\Tasks2" />
       <recent name="C:\MavenProjects\MavenGit\JavaRush\src\main\java\Tasks1" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Tasks3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -140,9 +320,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.task0304">
-    <configuration name="task0220" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks2.task0220" />
+  <component name="RunManager" selected="Application.Task0317Translator">
+    <configuration name="Task0202" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks2.Task0202" />
       <module name="JavaRush" />
       <extension name="coverage">
         <pattern>
@@ -154,8 +334,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task0301" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks3.task0301" />
+    <configuration name="Task0303jsonFromURL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks3.Task0303jsonFromURL" />
       <module name="JavaRush" />
       <extension name="coverage">
         <pattern>
@@ -167,8 +347,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task0302" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks3.task0302" />
+    <configuration name="Task0316" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks3.Task0316" />
       <module name="JavaRush" />
       <extension name="coverage">
         <pattern>
@@ -180,8 +360,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task0303" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks3.task0303" />
+    <configuration name="Task0317Translator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks3.Task0317Translator" />
       <module name="JavaRush" />
       <extension name="coverage">
         <pattern>
@@ -193,8 +373,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task0304" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks3.task0304" />
+    <configuration name="Translator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks3.Translator" />
       <module name="JavaRush" />
       <extension name="coverage">
         <pattern>
@@ -208,11 +388,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.task0304" />
-        <item itemvalue="Application.task0303" />
-        <item itemvalue="Application.task0302" />
-        <item itemvalue="Application.task0301" />
-        <item itemvalue="Application.task0220" />
+        <item itemvalue="Application.Task0317Translator" />
+        <item itemvalue="Application.Translator" />
+        <item itemvalue="Application.Task0303jsonFromURL" />
+        <item itemvalue="Application.Task0316" />
+        <item itemvalue="Application.Task0202" />
       </list>
     </recent_temporary>
   </component>
@@ -228,6 +408,14 @@
       <updated>1558356322431</updated>
       <workItem from="1558356325112" duration="568000" />
       <workItem from="1558357501978" duration="30048000" />
+      <workItem from="1558423042113" duration="9686000" />
+      <workItem from="1558457987418" duration="12306000" />
+      <workItem from="1558523533585" duration="7809000" />
+      <workItem from="1558600271117" duration="7823000" />
+      <workItem from="1558609210167" duration="3201000" />
+      <workItem from="1558612777782" duration="50000" />
+      <workItem from="1558612841755" duration="5523000" />
+      <workItem from="1558618387996" duration="19485000" />
     </task>
     <servers />
   </component>
@@ -237,12 +425,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30616000" />
+    <option name="totallyTimeSpent" value="96499000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1056" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27688172" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -250,8 +438,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32286024" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -260,7 +448,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -268,7 +456,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3295699" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
@@ -277,200 +465,371 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/Tasks1/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/task0139.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/task0107.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/task0102.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/task0118.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/task0127.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/task0114.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/task0110.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/task0119.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/task0111.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/task0101.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/task0211.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/task0204.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/task0202.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/task0203.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/task0209.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/task0201.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/Task0208.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/task0205.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/task0210.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/task0207.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/task0213.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/Task0209.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/task0214.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/Task0210.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/Task0211.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/Task0212.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/Task0213.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/Task0214.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding>
             <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/task0216.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/Task0215.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/Task0216.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/task0215.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/task0217.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/Task0217.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/task0218.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/Task0218.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/task0219.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/Task0219.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="13" />
+        <state relative-caret-position="226">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks3/task0304.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/Task0220.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="259">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding>
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0101.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0102.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0103.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0105.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0106.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0107.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0108.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0109.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0110.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0111.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0114.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0115.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0116.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0117.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0118.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0119.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0121.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0122.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0123.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0125.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0126.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0127.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0128.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0135.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0137.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0138.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0139.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks1/Task0140.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks3/AbstractWebTranslator.java" />
+    <entry file="jar://C:/Java/jdk1.8.0_211/jre/lib/ext/jaccess.jar!/com/sun/java/accessibility/util/Translator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks3/Task0316.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="172" selection-start-line="4" selection-start-column="172" selection-end-line="4" selection-end-column="172" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks3/Task0315.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks3/Task0303jsonFromURL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
+        <state relative-caret-position="22">
           <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks3/task0303.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks3/Task0313shuffleList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_211/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks3/task0302.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks3/Translator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks3/task0301.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks3/Task0317Translator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks2/task0220.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state relative-caret-position="286">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
